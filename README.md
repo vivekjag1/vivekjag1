@@ -8,5 +8,5 @@ My GitHub account houses a few notable projects
 
 All my projects are described thoroughly on my portfolio website at https://vivekjagadeesh.com. 
 
-Due to WPI's academic integrity policy, I cannot share school projects publicly, but they are available upon request. Please email me at vivekjag1@gmail.com for such requests. 
+Due to WPI's academic integrity policy, I cannot share course projects publicly, but they are available upon request. Please email me at vivekjag1@gmail.com for such requests, or if you have questions about any of my other projects!
 
