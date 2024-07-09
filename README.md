@@ -5,6 +5,7 @@ My name is Vivek Jagadeesh, and I am a junior majoring in Computer Science at Wo
 My GitHub account houses a few notable projects
 - vivekjag1/CS3733TeamO is the project repository for WPI CS3733 Software Engineering. It is a Node.js application for Brigham and Women's Hospital in Boston, Massachusetts. At the time of writing, the website is publicly available at https://brighamwomens.com, and can be run by using the <code>yarn run dev</code> script in the project, and then navigating to https://localhost:3000.
 - vivekjag1/portfolioWebsite is the repository for my portfolio website at https://vivekjagadeesh.com. The project can be run locally using <code> npm run dev </code> and then navigating to https://localhost:80.
+- vivekjag1/TACompanion is the repository for TACompanion - an application for CS Teaching Assistants (full description in repo. readme). The project can be run locally using <code>npm run dev </code> and then navigating to https://localhost:3000
 
 All my projects are described thoroughly on my portfolio website at https://vivekjagadeesh.com. 
 
