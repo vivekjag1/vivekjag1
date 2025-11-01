@@ -3,6 +3,7 @@
 My name is Vivek Jagadeesh, and I am a senior majoring in Computer Science with a concentration in Cybersecurity at Worcester Polytechnic Institute in Worcester, Massachusetts.
 
 My projects are all open-source, and mainly focus on Cybersecurity, Machine Learning, and Web Development. Below is a description of select projects: 
+- vivekjag1/Smart-Grid-Security-CS-4404 is an implementation of the ANSI PSEM protocol, with a MITM attack on the plaintext data. 
 - vivekjag1/BrighamWomens-CS3733 is the project repository for WPI CS3733 Software Engineering. It is a Node.js application for Brigham and Women's Hospital in Boston, Massachusetts. 
 - vivekjag1/portfolioWebsite is the repository for my portfolio website at https://vivekjagadeesh.com. 
 - vivekjag1/TACompanion is the repository for TACompanion - an application for CS Teaching Assistants. 
